@@ -1,0 +1,3 @@
+##Problem Statement:
+Your college wants to sell its old SUV cars as they want to replace them with electric cars. Your Professor knows you been trained in Machine Learning and Prompt Engineering. She delagates the task to you to develop an ML model that can estimate the expected price for these vehicles by checking the prices available for used SUV cars in Hyderabad in most popular website for used cars.
+###
